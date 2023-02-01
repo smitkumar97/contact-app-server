@@ -3,5 +3,5 @@
     "PORT": "3000",
     "MONGO_URI": "mongodb://localhost:27017/book_service",
     "TWILIO_ACCOUNT_SID": "ACb8305fa943e1be722c86eb71fcb0070a",
-    "TWILIO_AUTH_TOKEN": "219e13309a90ef93df5fff72721c3a80"
+    "TWILIO_AUTH_TOKEN": "381580c4b679ff26997188b8255522a3"
 }
