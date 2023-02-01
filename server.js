@@ -23,7 +23,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 
 app.get("/",(req,res)=>{
-  res.json({"message":"success"})
+  res.json({"message":"successful"})
 })
 
 app.use("/", routes);
