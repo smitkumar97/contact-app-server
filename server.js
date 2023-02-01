@@ -20,6 +20,12 @@ const PORT = process.env.PORT || 3200;
 
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
+
+
+app.get("/",(req,res)=>{
+  res.json({"message":"success"})
+})
+
 app.use("/", routes);
 
 app.use((error, req, res, next) => {
