@@ -1,0 +1,81 @@
+[
+    {   "id": 1,
+        "Firstname": "Smit",
+        "Lastname": "Patel",
+        "phone": 9033102252,
+        "email": "smitk@gmail.com"
+    },
+    {   "id": 2,
+        "Firstname": "Yash",
+        "Lastname": "Soni",
+        "phone": 8890715265,
+        "email": "yashsoni@gmail.com"
+    },
+    {   "id": 3,
+        "Firstname": "Het",
+        "Lastname": "Patel",
+        "phone": 8726590876,
+        "email": "hetpatel12@gmail.com"
+    },
+    {   "id": 4,
+        "Firstname": "Pragnesh",
+        "Lastname": "Tailor",
+        "phone": 7809812675,
+        "email": "ptailor3512@gmail.com"
+    },
+    {   "id": 5,
+        "Firstname": "Sneha",
+        "Lastname": "Tandel",
+        "phone": 9978618279,
+        "email": "sneha2987@gmail.com"
+    },
+    {   "id": 6,
+        "Firstname": "Kenil",
+        "Lastname": "Patel",
+        "phone": 8866126798,
+        "email": "kenilp146@gmail.com"
+    },
+    {   "id": 7,
+        "Firstname": "Megha",
+        "Lastname": "Ramani",
+        "phone": 7877678712,
+        "email": "megha6766@gmail.com"
+    },
+    {   "id": 8,
+        "Firstname": "Yagnik",
+        "Lastname": "Patel",
+        "phone": 9099098123,
+        "email": "yagnikp098@gmail.com"
+    },
+    {   "id": 9,
+        "Firstname": "Dhruv",
+        "Lastname": "Desai",
+        "phone": 8087981256,
+        "email": "dhruvd9890@gmail.com"
+    },
+    {   "id": 10,
+        "Firstname": "Krish",
+        "Lastname": "Purohit",
+        "phone": 9988762541,
+        "email": "pkrish4755@gmail.com"
+    },
+    {   "id": 11,
+        "Firstname": "Jainish",
+        "Lastname": "Chauhan",
+        "phone": 8200981266,
+        "email": "jc7721@gmail.com"
+    },
+    {   "id": 12,
+        "Firstname": "Riya",
+        "Lastname": "Dhorajiya",
+        "phone": 8200987865,
+        "email": "riya0911@gmail.com"
+    },
+    {
+        "id": 13,
+        "Firstname": "Pritesh",
+        "Lastname": "Patel",
+        "phone": 7016622772,
+        "email": "priteshp7917@gmail.com"
+    }
+]
